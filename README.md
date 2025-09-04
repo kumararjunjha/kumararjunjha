@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me  
+## 💫 About Me  
 - 📊 Data analytics student at **PWSkills**, currently freelancing.  
 - 🔍 Skilled at **SQL, Power BI, Python, Excel** for real-world analytics.  
 - 🌱 Currently learning: **Predictive modeling & interactive dashboards**.  
@@ -27,10 +27,11 @@
 
 ## 📌 Featured Projects  
 
-🔹 [**American Airlines Flight Delay Analysis**](https://github.com/kumararjunjha/American-Airlines-Analysis) – SQL + Power BI  
-🔹 [**Employee Burnout Dashboard**](https://github.com/kumararjunjha/Employee-Burnout-Analysis) – Power BI  
-🔹 [**Zepto Business Insights**](https://github.com/kumararjunjha/Zepto-Business-Insights) – SQL + Power BI  
-🔹 [**ML Dental Clinic Analysis**](https://github.com/kumararjunjha/ML-Dental-Clinic-Analysis) – Python + SQL + Power BI  
+🔹 [**American Airlines Flight Delay Analysis**](https://github.com/kumararjunjha/American-Airlines-Delay-Analysis) – SQL + Power BI  
+🔹 [**Employee Burnout Dashboard**](https://github.com/kumararjunjha/Employee-Burnout-Analysis-PowerBI) – Power BI  
+🔹 [**Zepto Business Insights**](https://github.com/kumararjunjha/zepto-delivery-powerbi-) – SQL + Power BI  
+🔹 [**ML Dental Clinic Analysis**](https://github.com/kumararjunjha/Dental-Clinic-Data-Analysis) – Python + SQL + Power BI  
+🔹 [**Zomato Insight Dashboard**](https://github.com/kumararjunjha/zomato-insights-dashboard) – SQL + Power BI  
 
 ---
 
